@@ -6,7 +6,7 @@
   <link href="http://v2go.top/atom.xml" rel="self"/>
   
   <link href="http://v2go.top/"/>
-  <updated>2020-08-18T08:17:07.484Z</updated>
+  <updated>2021-05-30T08:49:20.378Z</updated>
   <id>http://v2go.top/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://v2go.top/2021/05/30/about/"/>
+    <id>http://v2go.top/2021/05/30/about/</id>
+    <published>2021-05-30T08:49:20.378Z</published>
+    <updated>2021-05-30T08:49:20.378Z</updated>
+    
+    <content type="html"><![CDATA[<hr><p>title: about<br>date: 2021-05-30 16:46:55<br>academia: true<br>tags:<br>–</p><p>about</p><p>publication</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;hr&gt;
+&lt;p&gt;title: about&lt;br&gt;date: 2021-05-30 16:46:55&lt;br&gt;academia: true&lt;br&gt;tags:&lt;br&gt;–&lt;/p&gt;
+&lt;p&gt;about&lt;/p&gt;
+&lt;p&gt;publication&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>My first blog</title>

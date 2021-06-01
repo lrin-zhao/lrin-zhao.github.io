@@ -6,7 +6,7 @@
   <link href="http://v2go.top/atom.xml" rel="self"/>
   
   <link href="http://v2go.top/"/>
-  <updated>2021-05-31T02:55:20.992Z</updated>
+  <updated>2021-05-31T16:34:46.628Z</updated>
   <id>http://v2go.top/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>publication</title>
+    <link href="http://v2go.top/2021/06/01/Publications/publication/"/>
+    <id>http://v2go.top/2021/06/01/Publications/publication/</id>
+    <published>2021-05-31T16:22:59.000Z</published>
+    <updated>2021-05-31T16:34:46.628Z</updated>
+    
+    <content type="html"><![CDATA[<p>2021 IoT</p><p>2021 <a href="https://www.academia.edu/download/53311546/Remote_Car_Hacking.pdf">Globelcom</a> </p><p>2021 IoT</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2021 IoT&lt;/p&gt;
+&lt;p&gt;2021 &lt;a href=&quot;https://www.academia.edu/download/53311546/Remote_Car_Hacking.pdf&quot;&gt;Globelcom&lt;/a&gt; &lt;/p&gt;
+&lt;p&gt;2021 IoT&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Publications" scheme="http://v2go.top/categories/Publications/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

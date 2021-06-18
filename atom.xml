@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Ealin Zhao</title>
+  <title>Yilin Zhao&#39;s Web</title>
   
   
   <link href="http://v2go.top/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>http://v2go.top/</id>
   
   <author>
-    <name>Ealin Zhao</name>
+    <name>Yilin Zhao</name>
     
   </author>
   
@@ -108,15 +108,14 @@
     <link href="http://v2go.top/2020/08/18/My-first-blog/"/>
     <id>http://v2go.top/2020/08/18/My-first-blog/</id>
     <published>2020-08-18T08:17:07.000Z</published>
-    <updated>2021-05-31T02:56:52.807Z</updated>
+    <updated>2021-06-18T15:30:41.754Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>I…</p><h2 id="News"><a href="#News" class="headerlink" title="News"></a>News</h2><p>2019…<br>2015…</p><h2 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>I received his B.S. degree in computer science and technology from Qingdao Agricultural University in 2019. Now I am pursuing my Master degree in School of Cyber Engineering, Xidian University. My research interests cover vehicular network security and intrusion detection.</p><h2 id="News"><a href="#News" class="headerlink" title="News"></a>News</h2><p>2019…<br>2015…</p><h2 id="Publications"><a href="#Publications" class="headerlink" title="Publications"></a>Publications</h2><p>VehicleEIDS: A Novel External Intrusion Detection System Based on Vehicle Voltage Signals</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About me&quot;&gt;&lt;/a&gt;About me&lt;/h2&gt;&lt;p&gt;I…&lt;/p&gt;
-&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;he</summary>
+    <summary type="html">&lt;h2 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About me&quot;&gt;&lt;/a&gt;About me&lt;/h2&gt;&lt;p&gt;I received his B.S. degree in computer science</summary>
       
     
     

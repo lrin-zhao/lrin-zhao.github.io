@@ -3,11 +3,11 @@
   <title>Yilin Zhao&#39;s Web</title>
   
   
-  <link href="http://v2go.top/atom.xml" rel="self"/>
+  <link href="https://lrin-zhao.github.io/atom.xml" rel="self"/>
   
-  <link href="http://v2go.top/"/>
+  <link href="https://lrin-zhao.github.io/"/>
   <updated>2021-05-31T02:55:20.992Z</updated>
-  <id>http://v2go.top/</id>
+  <id>https://lrin-zhao.github.io/</id>
   
   <author>
     <name>Yilin Zhao</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://v2go.top/2021/05/31/hello-world/"/>
-    <id>http://v2go.top/2021/05/31/hello-world/</id>
+    <link href="https://lrin-zhao.github.io/2021/05/31/hello-world/"/>
+    <id>https://lrin-zhao.github.io/2021/05/31/hello-world/</id>
     <published>2021-05-31T02:55:20.992Z</published>
     <updated>2021-05-31T02:55:20.992Z</updated>
     
@@ -38,8 +38,8 @@
   
   <entry>
     <title>My first blog</title>
-    <link href="http://v2go.top/2020/08/18/My-first-blog/"/>
-    <id>http://v2go.top/2020/08/18/My-first-blog/</id>
+    <link href="https://lrin-zhao.github.io/2020/08/18/My-first-blog/"/>
+    <id>https://lrin-zhao.github.io/2020/08/18/My-first-blog/</id>
     <published>2020-08-18T08:17:07.000Z</published>
     <updated>2021-07-02T09:19:16.826Z</updated>
     

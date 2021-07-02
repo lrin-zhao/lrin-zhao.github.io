@@ -6,7 +6,7 @@
   <link href="http://v2go.top/atom.xml" rel="self"/>
   
   <link href="http://v2go.top/"/>
-  <updated>2021-05-31T16:34:46.628Z</updated>
+  <updated>2021-05-31T02:55:20.992Z</updated>
   <id>http://v2go.top/</id>
   
   <author>
@@ -15,31 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>publication</title>
-    <link href="http://v2go.top/2021/06/01/Publications/publication/"/>
-    <id>http://v2go.top/2021/06/01/Publications/publication/</id>
-    <published>2021-05-31T16:22:59.000Z</published>
-    <updated>2021-05-31T16:34:46.628Z</updated>
-    
-    <content type="html"><![CDATA[<p>2021 IoT</p><p>2021 <a href="https://www.academia.edu/download/53311546/Remote_Car_Hacking.pdf">Globelcom</a> </p><p>2021 IoT</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;2021 IoT&lt;/p&gt;
-&lt;p&gt;2021 &lt;a href=&quot;https://www.academia.edu/download/53311546/Remote_Car_Hacking.pdf&quot;&gt;Globelcom&lt;/a&gt; &lt;/p&gt;
-&lt;p&gt;2021 IoT&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Publications" scheme="http://v2go.top/categories/Publications/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -54,48 +29,6 @@
       
       
     <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://v2go.top/2021/05/31/about/"/>
-    <id>http://v2go.top/2021/05/31/about/</id>
-    <published>2021-05-31T02:41:04.467Z</published>
-    <updated>2021-05-31T02:41:04.467Z</updated>
-    
-    <content type="html"><![CDATA[<hr><p>title: about<br>date: 2021-05-30 16:46:55<br>tags:<br>academia: true<br>–</p><h1 id="About"><a href="#About" class="headerlink" title="About"></a>About</h1><h1 id="Publication"><a href="#Publication" class="headerlink" title="Publication"></a>Publication</h1>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;hr&gt;
-&lt;p&gt;title: about&lt;br&gt;date: 2021-05-30 16:46:55&lt;br&gt;tags:&lt;br&gt;academia: true&lt;br&gt;–&lt;/p&gt;
-&lt;h1 id=&quot;About&quot;&gt;&lt;a href=&quot;#About&quot; class=&quot;headerlink&quot; tit</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title></title>
-    <link href="http://v2go.top/2021/05/30/demo/"/>
-    <id>http://v2go.top/2021/05/30/demo/</id>
-    <published>2021-05-30T10:50:21.537Z</published>
-    <updated>2021-05-30T10:50:22.593Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="About"><a href="#About" class="headerlink" title="About"></a>About</h2><h2 id="Project"><a href="#Project" class="headerlink" title="Project"></a>Project</h2><p></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;About&quot;&gt;&lt;a href=&quot;#About&quot; class=&quot;headerlink&quot; title=&quot;About&quot;&gt;&lt;/a&gt;About&lt;/h2&gt;&lt;h2 id=&quot;Project&quot;&gt;&lt;a href=&quot;#Project&quot; class=&quot;headerlink&quot; title=</summary>
       
     
     
